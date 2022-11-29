@@ -1,0 +1,1 @@
+Component({properties:{},data:{},lifetimes:{created(){},attached(){},ready(){},detached(){}},methods:{}});
